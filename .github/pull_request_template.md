@@ -1,10 +1,12 @@
 # Title
 
 Describe the feature your PR introduces in a few words.
+Created an array of objects
 
 # Description
 
 Write a summary of your change. Explain why you have made it.
+To make data more accessible tot the members of the organasation.
 
 # Related to
 
