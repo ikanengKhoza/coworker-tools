@@ -1,10 +1,12 @@
 # Title
 
 Describe the feature your PR introduces in a few words.
+Stored members in an array as objects
 
 # Description
 
 Write a summary of your change. Explain why you have made it.
+Made the change to make the data more accessible
 
 # Related to
 
