@@ -47,7 +47,7 @@ const members = [{
     'location' : 'Rome',
     'firstAider': 'No',
     'userSlack': 'sallydoe',
-    'timeZone' :  'America/Los_Angeles'
+    'timeZone ' :  'America/Los_Angeles'
 
 }
 
